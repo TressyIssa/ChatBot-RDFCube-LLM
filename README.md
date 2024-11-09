@@ -1,4 +1,4 @@
-# Application de Suivi des Performances Éducatives avec LLM et RDF Cube
+# ChatBot de Suivi des Performances des connaissances scolaires avec LLM et RDF Cube
 
 Bienvenue dans notre projet qui combine des **Modèles de Langage de Grande Taille (LLM)** et des **Cubes RDF** pour offrir une solution innovante de suivi des performances éducatives. Ce projet permet de structurer des données éducatives et d'utiliser l'intelligence artificielle pour produire des analyses et des recommandations personnalisées en fonction des performances des étudiants.
 
@@ -37,8 +37,8 @@ Pour cloner et utiliser cette application, vous devez avoir une **clé API OpenA
 1. **Cloner le dépôt du projet :**
 
    ```bash
-   git clone https://github.com/DidioDieudonne/Application_RDFCube-LLM_SP.git
-   cd Application_RDFCube-LLM_SP
+   https://github.com/Issasoro/ChatBot-RDFCube-LLM.git
+   cd ChatBot-RDFCube-LLM
 2. **Créer un environnement virtuel et l'activer :**
    ```bash
    python -m venv .venv
@@ -54,13 +54,6 @@ Pour cloner et utiliser cette application, vous devez avoir une **clé API OpenA
 
    ```bash
    OPEN_API_KEY=votre_cle_api
-### Auteurs
-Dieudonné BYAOMBE MWINDULWA,
-Priscile EBWALLA EBWALETTE,
-Haback Marthe Désirée Olivia,
-David Lutala Lushuli,
-
-Encadré par : Dr. Tuong Nguyen
 
 
 
