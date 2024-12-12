@@ -46,7 +46,7 @@ Pour cloner et utiliser cette application, vous devez avoir une **clé API OpenA
 
 3. **Créez un fichier .env et ajoutez-y votre clé API OpenAI**
 
-   ```bash
+   ```bash.
    OPEN_API_KEY=votre_cle_api
 
 4. **Lancer l'application dans Visual Studio Code :**
