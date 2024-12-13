@@ -40,13 +40,13 @@ Pour cloner et utiliser cette application, vous devez avoir une **clé API OpenA
    https://github.com/Issasoro/ChatBot-RDFCube-LLM.git
    cd ChatBot-RDFCube-LLM
 2. **Créer un environnement virtuel et l'activer :**
-   ```bash.
+   ```bash
    python -m venv .venv
    source .venv/bin/activate
 
 3. **Créez un fichier .env et ajoutez-y votre clé API OpenAI**
 
-   ```bash.
+   ```bash
    OPEN_API_KEY=votre_cle_api
 
 4. **Lancer l'application dans Visual Studio Code :**
