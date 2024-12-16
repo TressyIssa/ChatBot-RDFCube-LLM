@@ -6,7 +6,7 @@ Bienvenue dans notre projet qui combine des **Modèles de Langage de Grande Tail
 
 Dans le cadre de l'éducation, il est essentiel de suivre et d'évaluer les performances des étudiants pour identifier les domaines où des améliorations sont nécessaires. Ce projet se concentre sur l'utilisation de **RDF Cube** pour structurer les données éducatives et de **LLM** pour générer des réponses aux questions posées en langage naturel par les utilisateurs (enseignants, administrateurs).
 
-## Fonctionnalités Principales
+## Fonctionnalités Principales.
 
 - **Analyse des performances éducatives** : Basée sur différents critères tels que les cours, la classe, ou l'année.
 - **Recommandations personnalisées** : Propose des actions ciblées pour améliorer les performances des étudiants ou des classes.
